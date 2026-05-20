@@ -3,7 +3,7 @@
 A simple web app that generates random cat GIFs with a single click.
 
 ## 🌐 Live Demo
-https://grecodes.github.io/cat-gif-generator/
+https://grecodes.github.io/kitten-gif-generator
 
 ## ✨ Features
 - Click button to show a new cat GIF

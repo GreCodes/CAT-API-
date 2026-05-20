@@ -1,4 +1,4 @@
-# 🐱 Cat GIF Generator
+# 🐱 Kitten GIF Generator
 
 A simple web app that generates random cat GIFs with a single click.
 
